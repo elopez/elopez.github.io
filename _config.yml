@@ -1,5 +1,5 @@
 title: $ ./elopez --github-repo
-description: Usage: elopez --github-repo [REPO NAME]
+description: "Usage: elopez --github-repo [REPO NAME]"
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-slate
